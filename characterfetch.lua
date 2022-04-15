@@ -1,0 +1,6 @@
+workspace.Player["Head"].BrickColor = BrickColor.new(255,0,0)
+workspace.Player["Left Arm"].BrickColor = BrickColor.new(255,0,0)
+workspace.Player["Right Arm"].BrickColor = BrickColor.new(255,0,0)
+workspace.Player["Left Leg"].BrickColor = BrickColor.new(255,0,0)
+workspace.Player["Right Leg"].BrickColor = BrickColor.new(255,0,0)
+workspace.Player["Torso"].BrickColor = BrickColor.new(255,0,0)
